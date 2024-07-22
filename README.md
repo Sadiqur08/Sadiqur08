@@ -8,7 +8,7 @@
 - <b>Basic Virtual Home Lab</b>
 
 
-- <b>Active Directory with 1000 users</b>
+- <b>Active Directory with 1000 users added w/PowerShell</b>
 
 
 - <b>Active Directory with SOC Operations Environment</b>
